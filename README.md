@@ -1,1 +1,1 @@
-# system edited manuaaly
+# system edited manually
